@@ -2,6 +2,10 @@
 
 Frontend part for a tripe website with React js
 
-#run
+#Demo
+
+https://travelgo-website.netlify.app/
+
+#run project
 
 npm start
